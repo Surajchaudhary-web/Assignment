@@ -115,9 +115,9 @@
 
 
 # 14. Write a program that counts how many vowels are in a string.
-string = input("Enter the word: ").lower()
-count = 0
-for vowels in string:
-    if vowels in "aeiou":
-        count+=1
-print(f"There are {count} vowels")
+# string = input("Enter the word: ").lower()
+# count = 0
+# for vowels in string:
+#     if vowels in "aeiou":
+#         count+=1
+# print(f"There are {count} vowels")
